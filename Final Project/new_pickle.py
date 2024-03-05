@@ -1,0 +1,1 @@
+a = open('usrs_info.pickle', 'w')
